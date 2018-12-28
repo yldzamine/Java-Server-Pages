@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<arabalar>
+    <araba>
+        <marka>MERCEDES</marka>
+        <model>E-SERİSİ SEDAN</model>
+        <rengi>GRİ</rengi>
+    </araba>
+    
+    <araba>
+        <marka>BMW</marka>
+        <model>6 SERİSİ CABRİO</model>
+        <rengi>SİYAH</rengi>
+    </araba>
+    
+    <araba>
+        <marka>ANADOL</marka>
+        <model>OTOSAN 500</model>
+        <rengi>BEYAZ</rengi>
+    </araba>
+    
+    <araba>
+        <marka>TOYOTA</marka>
+        <model>COROLLA</model>
+        <rengi>MAVİ</rengi>
+    </araba>
+</arabalar>
